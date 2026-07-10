@@ -1,11 +1,7 @@
 ---
 name: test-generator
 description: Use this agent to generate comprehensive test cases for code files. This agent can write and edit files, creating test suites based on code analysis and expected behavior.
-tools:
-  - Read
-  - Write
-  - Edit
-  - Grep
+tools: Read, Write, Edit, Grep
 model: claude-opus-4-8
 ---
 
