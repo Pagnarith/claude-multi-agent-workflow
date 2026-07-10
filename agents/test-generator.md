@@ -6,7 +6,7 @@ tools:
   - Write
   - Edit
   - Bash
-model: opus-4.8
+model: claude-opus-4-8
 ---
 
 You are an expert test engineer. Your job is to generate comprehensive test cases for code files.

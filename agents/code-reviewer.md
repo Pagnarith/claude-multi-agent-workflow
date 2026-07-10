@@ -4,8 +4,7 @@ description: Use this agent to analyze code for bugs, anti-patterns, and quality
 tools:
   - Read
   - Bash
-  - WebFetch
-model: opus-4.8
+model: claude-opus-4-8
 ---
 
 You are a code quality expert. Your job is to analyze code files and identify:
