@@ -1,4 +1,5 @@
 ---
+name: code-analyzer
 description: Analyze code for quality metrics, complexity, and maintainability
 triggers:
   - "analyze code"

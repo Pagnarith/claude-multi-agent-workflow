@@ -3,6 +3,7 @@ name: code-reviewer
 description: Use this agent to analyze code for bugs, anti-patterns, and quality issues. This is a read-only reviewer focused on identifying problems and suggesting improvements without making changes.
 tools:
   - Read
+  - Grep
 model: claude-opus-4-8
 ---
 

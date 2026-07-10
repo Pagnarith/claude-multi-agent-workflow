@@ -5,6 +5,7 @@ tools:
   - Read
   - Write
   - Edit
+  - Grep
 model: claude-opus-4-8
 ---
 
