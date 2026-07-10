@@ -5,7 +5,6 @@ tools:
   - Read
   - Write
   - Edit
-  - Bash
 model: claude-opus-4-8
 ---
 
